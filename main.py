@@ -7,4 +7,4 @@ def addCheck(x,y,z):
         return False
 
 #run function
-print(addCheck(2,2,4))
+print(addCheck(2,3,4))
